@@ -10,7 +10,7 @@
 
 **크롬 앱스토어에 모멘텀이라는 확장자 프로그램을 보고 생산성 프로그램을 만들어보고 싶어서 연습한 결과물입니다.**
 
-[크롬 확장자 프로그램 모멘텀 바로가기]("https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca")
+[크롬 확장자 프로그램 모멘텀 바로가기](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
 
 ### Develop Enviroments
 - Device: Macbook Pro Early 2015
@@ -22,4 +22,4 @@
 
 **This is the result of practicing to create a productivity program by viewing an extension program called Momentum in order to create a productivity program.**
 
-[Chrome Extension Program Momentum Shortcuts]("https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca")
+[Chrome Extension Program Momentum Shortcuts](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
