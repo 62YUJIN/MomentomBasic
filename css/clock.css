@@ -1,0 +1,7 @@
+/*
+    clock.css 파일은 시계 폰트 크기를 설정합니다.
+*/
+
+.clock {
+    font-size: 6em;
+}

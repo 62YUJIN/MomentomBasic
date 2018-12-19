@@ -1,0 +1,48 @@
+/*
+    todo.css 파일은 toDo, toDos, toDoList 스타일을 설정합니다.
+*/
+
+.list {
+    margin-bottom: 20px;
+}
+
+.toDo {
+    font-size: 22px;
+}
+
+.toDoBtn {
+    border: white 2px solid;
+    position: relative;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: 800ms ease all;
+    outline: none;
+}
+
+.toDoBtn:hover{
+    background:#fff;
+    color: #2d3436;
+}
+
+.toDoBtn:before, .toDoBtn:after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 2px;
+    width: 0;
+    background: #2d3436;
+    transition: 400ms ease all;
+}
+
+.toDoBtn:after{
+    right: inherit;
+    top: inherit;
+    left: 0;
+    bottom: 0;
+}
+
+.toDoBtn:hover:before, .toDoBtn:hover:after{
+    width: 100%;
+    transition: 800ms ease all;
+}

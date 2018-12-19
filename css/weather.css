@@ -1,0 +1,11 @@
+/*
+    weather.css 파일은 날씨정보의 스타일을 설정합니다.
+*/
+
+.weather {
+    position: absolute;
+    font-style: bold;
+    font-size: 12px;
+    top: 25px;
+    right: 25px;
+}

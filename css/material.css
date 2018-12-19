@@ -1,0 +1,52 @@
+/*
+    material 파일은 index.html 태그 중 div.center class tag의 스타일을 설정합니다.
+*/
+
+.center {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+  
+.center .name {
+    appearance: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.center .nameInput::placeholder {
+    color: white;
+    opacity: 0.7;
+}
+  
+.center .nameInput:focus,
+.center .nameInput:active {
+    outline: none;
+}
+  
+.center .nameText {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+  
+.center .name {
+    margin-bottom: 30px;
+}
+
+.divToDo {
+    float: left;
+    width: 20%;
+    margin-left: 20em; 
+    margin-bottom: 150px; 
+}
+
+.bg {
+    position: absolute;
+    background-color: #333333;
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}

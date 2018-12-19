@@ -1,0 +1,10 @@
+/*
+    styles.css 파일은 index.html의 요소들을 꾸며주기 위한 css 파일들의 상위 파일입니다. 
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+@import "main.css";
+@import "material.css";
+@import "clock.css";
+@import "todo.css";
+@import "weather.css";
