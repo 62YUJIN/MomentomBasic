@@ -1,6 +1,14 @@
-# MomentomBasic
+# 모멘톰베이직(MomentomBasic)
 
-### 개발 환경
+## ⚠️ 호환 및 비호환 브라우저(Compatible & Incompatible browsers)
+  - [x] Compatible
+      - [x] 크롬(Chrome)
+  - [ ] Incompatible 
+      - [ ] 사파리(Safari)
+
+---
+
+## 개발 환경
 - 디바이스: Macbook Pro Early 2015
 - 운영체제 버젼: 10.14.1
 - 언어: html, css, VanillaJS
@@ -12,7 +20,7 @@
 
 [크롬 확장자 프로그램 모멘텀 바로가기](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
 
-### Develop Enviroments
+## Develop Enviroments
 - Device: Macbook Pro Early 2015
 - OS version: 10.14.1
 - Language: html, css, VanillaJS
@@ -23,3 +31,7 @@
 **This is the result of practicing to create a productivity program by viewing an extension program called Momentum in order to create a productivity program.**
 
 [Chrome Extension Program Momentum Shortcuts](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
+
+---
+## 실행화면(LaunchScene)
+![LaunchScene](./screenshot/momentomBasic.png)
